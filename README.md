@@ -22,3 +22,16 @@ P-ai's AI/ML workshops, revamped for the 2021-2022 school year
 - Supervised learning in more detail
 - Linear regression and Logistic regression
 - Case study with house prices
+
+### Workshop session 3
+- Gradient descent
+  - What is gradient descent?
+  - How do machines use GD to learn?
+- Machine learning model crash course
+  - K-Nearest Neighbors
+  - Naive Bayes
+  - Decision Trees
+  - Random Forest
+  - Support Vector Machines
+- Case study applying the skills we learned
+- How to use git & GitHub
