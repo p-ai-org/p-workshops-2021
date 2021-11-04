@@ -35,3 +35,11 @@ P-ai's AI/ML workshops, revamped for the 2021-2022 school year
   - Support Vector Machines
 - Case study applying the skills we learned
 - How to use git & GitHub
+
+### Workshop session 4
+- Deep learning
+  - Intuition behind neural nets
+  - How to build and train a neural net with Tensorflow and Keras
+  - Types of neural nets
+- Case study applying deep learning
+- A typical ML project structure
