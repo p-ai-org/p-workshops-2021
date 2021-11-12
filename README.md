@@ -42,4 +42,3 @@ P-ai's AI/ML workshops, revamped for the 2021-2022 school year
   - How to build and train a neural net with Tensorflow and Keras
   - Types of neural nets
 - Case study applying deep learning
-- A typical ML project structure
